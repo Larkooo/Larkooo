@@ -8,8 +8,7 @@
 ### My social networks
 - #### I don't like facebook so don't expect to see ~~instagram~~ (banned word)
 - [<img align="left" width="40px" src="https://aymdj.me/favicon.ico"/>][aymdj] 
-[<img align="left" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1722376-1466162.png"/>][twitter]
-<img align="left" width="40px" src="http://sc.aymdj.me/uw21xguv.png"/>
+[<img align="left" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1722376-1466162.png"/>][twitter] <img align="left" src="http://sc.aymdj.me/uw21xguv.png"/>
 
 
 
