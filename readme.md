@@ -1,4 +1,4 @@
-### Hey 👋🏼, i'm Aymen, aka, alias, also known as.. Larko!
+### Hey 👋🏼, i'm Aymen, aka, alias, also known as.. [Larko][aymdj]!
 
 ## I'm a student & a ~~bad~~ developer!
 - I'm currently working on [Five][five] 🤖 & [Starlinkradar][slr] 🛰 ~~and some random small projects~~ 
@@ -7,7 +7,7 @@
 
 ### My social networks
 [<img align="left" width="22px" src="https://aymdj.me/favicon.ico"/>][aymdj] 
-[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/fr/archive/c/c8/20160903181213%21Twitter_Bird.svg"/>][twitter]
+[<img align="left" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1722376-1466162.png"/>][twitter]
 I don't like facebook so don't expect to see ~~instagram~~ (banned word)
 <br/>
 
