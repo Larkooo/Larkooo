@@ -5,10 +5,10 @@
 - What am i currently learning ? Can't really say, i'm constantly learning new things! ~~blowing my own horn~~
 - I like video games 🎮, astronomy 🌌 and aviation ✈️ in general
 
-### My social networks 
+### My social networks <img align="right" src="http://sc.aymdj.me/2dthunv5.png"/>
 - #### I don't like facebook so don't expect to see ~~instagram~~ (banned word)
 - [<img align="left" width="40px" src="https://aymdj.me/favicon.ico"/>][aymdj] 
-[<img align="left" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1722376-1466162.png"/>][twitter] <img align="left" src="http://sc.aymdj.me/2dthunv5.png"/>
+[<img align="left" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1722376-1466162.png"/>][twitter] 
 
 
 
