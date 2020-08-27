@@ -6,8 +6,8 @@
 - I like video games 🎮, astronomy 🌌 and aviation ✈️ in general
 
 ### My social networks
-- [<img align="left" width="22px" src="https://aymdj.me/favicon.ico"/>][aymdj] 
-[<img align="left" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1722376-1466162.png"/>][twitter]
+- [<img align="left" width="50px" src="https://aymdj.me/favicon.ico"/>][aymdj] 
+[<img align="left" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1722376-1466162.png"/>][twitter]
 I don't like facebook so don't expect to see ~~instagram~~ (banned word)
 <br/>
 
