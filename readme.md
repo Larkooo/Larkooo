@@ -6,9 +6,9 @@
 - I like video games 🎮, astronomy 🌌 and aviation ✈️ in general
 
 ### My social networks
-[<img align="left" width="22px" src="https://aymdj.me/favicon.ico"/>][aymdj] ~~flexing my projects~~
+[<img align="left" width="22px" src="https://aymdj.me/favicon.ico"/>][aymdj] 
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/fr/archive/c/c8/20160903181213%21Twitter_Bird.svg"/>][twitter]
-- I don't really like facebook so don't expect to see ~~instagram~~ (banned word)
+I don't like facebook so don't expect to see ~~instagram~~ (banned word)
 <br/>
 
 
