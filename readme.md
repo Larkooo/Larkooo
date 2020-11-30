@@ -5,7 +5,7 @@
 - What am i currently learning ? Can't really say, i'm constantly learning new things! ~~blowing my own horn~~
 - I like video games 🎮, astronomy 🌌, aviation ✈️ and technology 💻 in general!
 
-- ##### Larko#0031
+- Larko#0031
 - [<img align="left" width="40px" src="https://aymdj.me/favicon.ico"/>][aymdj] 
 [<img align="left" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1722376-1466162.png"/>][twitter] 
 <br/>
