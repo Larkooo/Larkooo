@@ -11,7 +11,7 @@
 [<img align="left" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1722376-1466162.png"/>][twitter] 
 
 ### Languages, tools and framework I'm familiar with
-[<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40px" align="left">]
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40px" align="left">
 
 
 
