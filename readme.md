@@ -14,7 +14,7 @@
 
 
 ### Everything I'm familiar with (related to 💻)
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40px" align="left"/>
+<p align="left"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40px" align="left"/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40px" align="left"/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40px" align="left"/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40px" align="left"/>
@@ -43,6 +43,7 @@
 <img src="https://avatars0.githubusercontent.com/u/2854298?s=200&v=4" height="40px" align="left"/>
 <img src="https://avatars0.githubusercontent.com/u/3717923?s=200&v=4" height="40px" align="left"/>
 <img src="https://avatars3.githubusercontent.com/u/10998651?s=200&v=4" height="40px" align="left"/>
+<p/>
 
 \
 \
