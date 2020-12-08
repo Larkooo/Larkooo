@@ -51,4 +51,5 @@
 [aymdj]: https://aymdj.me/
 [twitter]: https://twitter.com/aym_dm
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larkooo&layout=compact)](https://github.com/larkooo/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=larkooo&hide=stars&count_private=true)
