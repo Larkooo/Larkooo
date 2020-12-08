@@ -50,3 +50,6 @@
 [slr]: https://github.com/Starlinkradar
 [aymdj]: https://aymdj.me/
 [twitter]: https://twitter.com/aym_dm
+
+[![Larko's github stats](https://github-readme-stats.vercel.app/api?username=larkooo)](https://github.com/anuraghazra/github-readme-stats)
+
