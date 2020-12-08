@@ -44,10 +44,8 @@
 <img src="https://avatars0.githubusercontent.com/u/3717923?s=200&v=4" height="40px" align="left"/>
 <img src="https://avatars3.githubusercontent.com/u/10998651?s=200&v=4" height="40px" align="left"/>
 
-<br>
-<br>
-<br>
-<br>
+\
+\
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larkooo&langs_count=8&layout=compact&hide=css,html,lua)](https://github.com/larkooo/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=larkooo&hide=stars&count_private=true)
