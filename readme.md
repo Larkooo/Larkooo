@@ -1,8 +1,8 @@
-### Hey 👋🏼, i'm Aymen, aka, alias, also known as.. [Larko][aymdj]!
+### Hey 👋🏼, I'm Aymen, aka, alias, also known as.. [Larko][aymdj]!
 
 ## I'm a student & a ~~bad~~ developer!
 - I'm currently working on [Five][five] 🤖 & [Starlinkradar][slr] 🛰 ~~and some random small projects~~ 
-- What am i currently learning ? Can't really say, i'm constantly learning new things! ~~blowing my own horn~~
+- What am I currently learning ? Can't really say, I'm constantly learning new things! ~~blowing my own horn~~
 - I like video games 🎮, astronomy 🌌, aviation ✈️ and technology 💻 in general!
 
 
