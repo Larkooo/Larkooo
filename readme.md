@@ -50,8 +50,11 @@
 
 <details>
   <summary>Github Stats</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larkooo&langs_count=8&layout=compact&hide=css,html,lua&count_private=true&show_icons=true)](https://github.com/larkooo/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=larkooo&hide=stars&count_private=true&show_icons=true)
+  
+  <br/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larkooo&langs_count=8&layout=compact&hide=css,html,lua&count_private=true&show_icons=true)](https://github.com/larkooo/github-readme-stats)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=larkooo&hide=stars&count_private=true&show_icons=true)
 </details>
 
 
