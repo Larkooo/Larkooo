@@ -7,6 +7,7 @@
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="32px" align="left"/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="32px" align="left"/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="32px" align="left"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" height="32px" align="left"/>  
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="32px" align="left"/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="32px" align="left"/>
