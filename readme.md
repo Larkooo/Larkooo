@@ -3,15 +3,18 @@
 ## I'm a student & a ~~bad~~ developer!
 
 ### Everything I'm familiar with (related to 💻)
-<p align="left"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="32px" align="left"/>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="32px" align="left"/>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="32px" align="left"/>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="32px" align="left"/>
+<img src="https://www.opengl.org/img/opengl_logo.png" height="32px" align="left"/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" height="32px" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Simple_DirectMedia_Layer%2C_Logo.svg/1200px-Simple_DirectMedia_Layer%2C_Logo.svg.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" height="32px" align="left"/>  
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="32px" align="left"/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" height="32px" align="left"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="32px" align="left"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="32px" align="left"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" height="32px" align="left"/>
@@ -25,6 +28,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="32px" align="left"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="32px" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="32px" align="left"/>
