@@ -56,5 +56,5 @@
 
 [five]: https://github.com/Five-bot
 [slr]: https://github.com/Starlinkradar
-[aymdj]: https://aymdj.me/
+[aymdj]: https://aymdj-tpx.vercel.app/
 [twitter]: https://twitter.com/aym_dm
