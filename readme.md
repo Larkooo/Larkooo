@@ -1,8 +1,8 @@
-### Hey 👋🏼, I'm Aymen, aka, alias, also known as.. [Larko][aymdj]!
+## Hey 👋🏼, I'm Aymen, aka, alias, also known as.. [Larko][aymdj]!
 
-## I'm a student & a ~~bad~~ developer!
+### I'm a student & a ~~bad~~ developer!
 
-### Everything I'm familiar with (related to 💻)
+#### Everything I'm familiar with (related to 💻)
 <p align="left">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="32px" align="left"/>
 <img src="https://www.opengl.org/img/opengl_logo.png" height="32px" align="left"/>
