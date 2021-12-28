@@ -1,6 +1,4 @@
-## Hey 👋🏼, I'm Aymen, aka, alias, also known as.. [Larko][aymdj]!
-
-### I'm a student & a ~~bad~~ developer!
+## Hey 👋
 
 #### Everything I'm familiar with (related to 💻)
 <p align="left">
