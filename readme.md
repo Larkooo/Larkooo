@@ -1,4 +1,4 @@
-## Hey 👋
+### Hey 👋
 
 #### Everything I'm familiar with (related to 💻)
 <p align="left">
