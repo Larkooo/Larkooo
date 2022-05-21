@@ -1,6 +1,6 @@
 ### Hey 👋
 
-#### Everything I'm familiar with (related to 💻)
+<!--#### Everything I'm familiar with (related to 💻)
 <p align="left">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="32px" align="left"/>
 <img src="https://www.opengl.org/img/opengl_logo.png" height="32px" align="left"/>
@@ -55,4 +55,4 @@
 [five]: https://github.com/Five-bot
 [slr]: https://github.com/Starlinkradar
 [aymdj]: https://aymdj-tpx.vercel.app/
-[twitter]: https://twitter.com/aym_dm
+[twitter]: https://twitter.com/aym_dm-->
