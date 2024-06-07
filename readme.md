@@ -1,5 +1,8 @@
 ### Hey 👋
 
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background-color: black;]{x0000}$}
+
 <!--#### Everything I'm familiar with (related to 💻)
 <p align="left">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="32px" align="left"/>
